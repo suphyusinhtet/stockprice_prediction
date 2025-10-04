@@ -9,7 +9,7 @@
 ## Quick Start
 
 ```bash
-git clone https://github.com/yourusername/stock-prediction-transformer.git
+git clone https://github.com/suphyusinhtet/stock-prediction-transformer.git
 cd stock-prediction-transformer
 pip install -r requirements.txt
 python train_all_models.py --stock AAPL
@@ -191,10 +191,6 @@ Data provided by Yahoo Finance API via `yfinance` library.
 
 ## Contact
 
-Your Name - your.email@example.com
+suphyusinhtet@gmail.com
 
 Project Link: [https://github.com/suphyusinhtet/stockprice_prediction](https://github.com/suphyusinhtet/stockprice_prediction)
-
----
-
-*This README is ready to copy directly into your GitHub repository. Just replace the placeholder contact information and repository URLs with your actual details.*
