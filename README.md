@@ -177,9 +177,9 @@ Feed-forward Dim: 512
 - [ ] Cross-sector validation
 - [ ] Attention mechanism interpretability
 
-### 📜 License 
-see [LICENSE](LICENSE)
-This dissertation repository and all associated code, models, and documentation are © 2025 Su Phyu Sin Htet.  
+### 📜 [LICENSE](LICENSE)
+
+This repository and all associated code, models, and documentation are © 2025 Su Phyu Sin Htet.  
 All Rights Reserved. 
 
 The content may be viewed and referenced for educational or research purposes,  
